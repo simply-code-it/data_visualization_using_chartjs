@@ -5,6 +5,9 @@ QuickEats Analytics Dashboard
 Project Overview
 The QuickEats analytics dashboard is a comprehensive, advanced React application designed to provide detailed insights into the performance of the QuickEats restaurant chain. This dashboard includes secure authentication, protected routes, dynamic visualizations, and interactive data analysis features to help manage and analyze restaurant metrics efficiently.
 
+# Deployed Link
+***https://data-visualization-using-chartjs-2l3t01nt5.vercel.app/***
+
 # Features
 # Authentication
 ***User Login***: Secure login with dummy credentials (username: admin, password: admin).
